@@ -1,7 +1,15 @@
 # Credit_Risk_Analysis
 
 ## Overview of Analysis
-
+For this challenge, the goal is to use several machine learning to predict credit risk by analyzing large amounts of data and predict trends to optimize lending.
+The data used for this analysis is a credit card credit dataset from LendingClub.
+The machine learning models used were ad follows;
+* Naive Random Oversampling
+* SMOTE Oversampling
+* Undersampling
+* Combination (Over and Under) Sampling
+* Balanced Random Forest Classifier
+* Easy Ensemble AdaBoost Classifier
 
 ## Results
 ### Naive Random Oversampling
