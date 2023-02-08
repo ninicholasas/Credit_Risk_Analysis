@@ -15,6 +15,7 @@
   * low_risk : 0.56
   * avg/total: 0.56
 
+---
 
 ### SMOTE Oversampling
 * Balanced Accuracy Score: 0.6548711319915902
@@ -27,6 +28,7 @@
   * low_risk : 0.69
   * avg/total: 0.69
 
+---
 
 ### Undersampling
 * Balanced Accuracy Score: 0.5442369453268994
@@ -39,6 +41,7 @@
   * low_risk : 0.40
   * avg/total: 0.4
 
+---
 
 ### Combination (Over and Under) Sampling
 * Balanced Accuracy Score: 0.6381140072613435
@@ -51,6 +54,7 @@
   * low_risk : 0.57
   * avg/total: 0.57
 
+---
 
 ### Balanced Random Forest Classifier
 * Balanced Accuracy Score: 0.5
@@ -63,6 +67,7 @@
   * low_risk : 0.00
   * avg/total: 0.01
 
+---
 
 ### Easy Ensemble AdaBoost Classifier
 * Balanced Accuracy Score: 0.931601605553446
