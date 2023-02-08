@@ -82,3 +82,4 @@
 
 
 ## Summary
+Overall all the classifiers seem to have a same accuaacy other than the Easy Ensemble AdaBoost Classifier. 
